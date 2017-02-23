@@ -1,5 +1,5 @@
 ls -l .
-curl ipinfo.io/ip
+# curl ipinfo.io/ip
 netstat -atp tcp
 df -h
-du -h
+du -h -d 1
