@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ns-plugin-sandbox-test": "file:ns-plugin-sandbox-test",
+    "tns-core-modules": "2.5.1"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.4.5",
+    "babel-types": "6.4.5",
+    "babylon": "6.4.5",
+    "lazy": "1.0.11"
+  },
+  "nativescript": {
+    "id": "com.telerik.nssandboxplugins",
+    "tns-android": {
+      "version": "2.5.0"
+    }
+  }
+}

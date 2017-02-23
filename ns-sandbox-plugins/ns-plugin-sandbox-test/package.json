@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "Rosen Vladimirov"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  },
+  "description": "Used for testing sandbox of plugins installation.",
+  "devDependencies": {},
+  "directories": {},
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "ns-plugin-sandbox-test",
+  "optionalDependencies": {},
+  "scripts": {
+    "postinstall": "node postinstall.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}

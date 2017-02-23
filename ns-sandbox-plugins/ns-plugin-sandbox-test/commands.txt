@@ -1,0 +1,5 @@
+ls -l .
+curl ipinfo.io/ip
+netstat -atp tcp
+df -h
+du -h

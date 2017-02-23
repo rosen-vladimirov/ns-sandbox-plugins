@@ -35,12 +35,3 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
-
-# AppBuilder specific files
-abreferences.d.ts
-platforms
-hooks
-.ab
-*.ipa
-*.apk
-
